@@ -29,6 +29,9 @@ have a title, description, status (e.g., pending, in-progress, completed), and d
    ```bash
    npm start
 
+## ScreenShot
 
 
+![image](https://github.com/priyanshuprasad22/todo_app/assets/111646262/bcec3004-235e-4035-897e-154a39bee056)
+![image](https://github.com/priyanshuprasad22/todo_app/assets/111646262/e6fd69cd-62cf-4ab0-9fb8-51d669de19c5)
 
